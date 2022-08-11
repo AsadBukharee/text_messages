@@ -79,8 +79,8 @@ async def send_txts(
 if __name__ == "__main__":
     _num = "03417070873"
     _carrier = "verizon"
-    _email = "toptalentprogrammer@gmail.com"
-    _pword = "guhonqiecsvvblkr"
+    _email = "xxxxxx@gmail.com"
+    _pword = "xxxxxxxxxxxxxxxx"
     _msg = "AsselamuAlaikum"
     _subj = "Allah u Akbar"
     for _carrier in CARRIER_MAP.keys():
